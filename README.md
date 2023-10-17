@@ -25,7 +25,7 @@ Project inspired by Netflix, developed in Vue.js. The project focus is to receiv
 #### Tech stack:
 - FE Website: Bootstrap,Vue.js.
 - BE : Php, MySQL, Laravel.
-- APIs : Axios ("developer.themoviedb.org").
+- APIs : Axios ("_developer.themoviedb.org_").
 
 
 ## About me...
