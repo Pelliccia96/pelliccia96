@@ -4,6 +4,7 @@ Hi! My name is *Francesco* and I'm a _Full Stack Web Developer_.
 
 My passion for technology and my high motivation for constant personal growth have led me to find a home in the Coding World, where you have the continuous opportunity to learn, grow and improve.
 I love programming in JavaScript and Php and I love spending my time learning new things about IT.
+
 _If it's about coding, I'm in!_
 
 [![Linkedin: DeveloperWay](https://img.shields.io/badge/-pelliccia96-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/pelliccia96/)](hhttps://www.linkedin.com/pelliccia96/)
