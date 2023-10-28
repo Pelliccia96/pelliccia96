@@ -1,4 +1,4 @@
-## Welcome to Francesco Pelliccia's GitHub page! 🔥
+# Welcome to Francesco Pelliccia's GitHub page! 🔥
 
 Hi! My name is *Francesco* and I'm a _Full-Stack Web Developer_.
 
