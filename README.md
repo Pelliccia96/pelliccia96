@@ -7,7 +7,7 @@ I love programming in JavaScript and Php and I love spending my time learning ne
 
 _If it's about coding, I'm in!_
 
-[![LinkedIn](https://img.shields.io/badge/-pelliccia96-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/pelliccia96/)](hhttps://www.linkedin.com/pelliccia96/)
+[![LinkedIn](https://img.shields.io/badge/-pelliccia96-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pelliccia96/)](hhttps://www.linkedin.com/in/pelliccia96/)
 [![GitHub](https://img.shields.io/github/followers/Pelliccia96?label=follow&style=social)](https://github.com/Pelliccia96)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pelliccia96&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
