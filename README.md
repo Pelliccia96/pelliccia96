@@ -23,6 +23,7 @@ Project for the hospital environment, developed in Laravel. The project focus is
 
 ### [📄 Repo](https://github.com/Pelliccia96/laravel-auth-consenso-informato)
 
+<hr>
 
 ### 🍴 Boolflix 
 Project inspired by Netflix, developed in Vue.js. The project focus is to receive data from a film and TV series API, and filter on them with search by name.
@@ -33,7 +34,6 @@ Project inspired by Netflix, developed in Vue.js. The project focus is to receiv
 - APIs : Axios ("_developer.themoviedb.org_").
 
 ### [💻 Repo](https://github.com/Pelliccia96/vite-boolflix)
-
 
 
 ## About me...
