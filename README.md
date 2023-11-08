@@ -35,6 +35,7 @@ Project inspired by Netflix, developed in Vue.js. The project focus is to receiv
 
 ### [💻 Repo](https://github.com/Pelliccia96/vite-boolflix)
 
+<hr>
 
 ## About me...
 
