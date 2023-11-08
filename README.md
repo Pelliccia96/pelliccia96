@@ -13,7 +13,7 @@ _If it's about coding, I'm in!_
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pelliccia96&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## Projects
 
-### 🌎 Consenso Informato ### [📄 Repo](https://github.com/Pelliccia96/laravel-auth-consenso-informato)
+### 🌎 Consenso Informato
 Project for the hospital environment, developed in Laravel. The project focus is to facilitate doctor-patient interaction, therapy management and to store doctor-patient information.
 
 #### Tech stack:
@@ -21,13 +21,19 @@ Project for the hospital environment, developed in Laravel. The project focus is
 - BE : Php, MySQL, Laravel.
 - Authentication: Jwt Token.
 
-### 🍴 Boolflix  ### [💻 Repo](https://github.com/Pelliccia96/vite-boolflix)
+### [📄 Repo](https://github.com/Pelliccia96/laravel-auth-consenso-informato)
+
+
+### 🍴 Boolflix 
 Project inspired by Netflix, developed in Vue.js. The project focus is to receive data from a film and TV series API, and filter on them with search by name.
 
 #### Tech stack:
 - FE Website: Bootstrap, Vue.js.
 - BE : Php, MySQL, Laravel.
 - APIs : Axios ("_developer.themoviedb.org_").
+
+### [💻 Repo](https://github.com/Pelliccia96/vite-boolflix)
+
 
 
 ## About me...
