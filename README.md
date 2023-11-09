@@ -21,7 +21,7 @@ Project for the hospital environment, developed in Laravel. The project focus is
 - BE : Php, MySQL, Laravel.
 - Authentication: Jwt Token.
 
-### [📄 Repo](https://github.com/Pelliccia96/laravel-auth-consenso-informato)
+### [📄 Repo](https://github.com/Pelliccia96/laravel-consinf)
 
 <hr>
 
