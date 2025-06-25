@@ -3,7 +3,7 @@
 Hi! My name is *Francesco* and I'm a _Full-Stack Web Developer_.
 
 My passion for technology and my high motivation for constant personal growth have led me to find a home in the Coding World, where you have the continuous opportunity to learn, grow and improve.
-I love programming in JavaScript and Php and I love spending my time learning new things about IT.
+I love programming in Java and PHP and I love spending my time learning new things about IT.
 
 _If it's about coding, I'm in!_
 
@@ -40,7 +40,7 @@ Project inspired by Netflix, developed in Vue.js. The project focus is to receiv
 ## About me...
 
 - 🔭 I’m currently working on: _Back-end Side_
-- 🌱 I’m currently learning: _React.js_
+- 🌱 I’m currently learning: _Spring Boot_
 - 💬 Ask me about: ✨ _Coding_ ✨
 - 📫 How to reach me: fra.pelliccia96@gmail.com
 - 😄 Pronouns: _Fra_ 🔥
